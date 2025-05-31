@@ -5,13 +5,17 @@ This project is a Django-based web backend application designed to handle intell
 RAG Project - Comprehensive Setup Guide
 A Full-Stack Document Q&A System with Django Backend & React Frontend
 images:
-![Screenshot 2025-05-31 234754](https://github.com/user-attachments/assets/3e4431a9-631c-4e2b-ab2b-9db878b99897)
-/00ad6517-1feb-48d3-98ee-3c091f9781e5)
-![image](https://github.com/user-attachments/assets/fab5191a-b543-4b37-849c-f7e9e24fb8fd)
-![image](https://github.com/user-attachments/assets/7694e5fb-c929-4184-aa7e-995c367c3e67)
-![image](https://github.com/user-attachments/assets/f44e9623-087b-4b5f-9c91-0aff3c83d016)
-![image](https://github.com/user-attachments/assets/31d8f6d4-04a6-4043-b62b-3a035806b59f)
-![image](https://github.com/user-attachments/assets/caf7ee4c-18a6-4f85-a648-d67615bcf695)
+![1000053679](https://github.com/user-attachments/assets/9906c1e0-a41b-4a22-94c3-11a65a5d6594)
+![1000053678](https://github.com/user-attachments/assets/53e3a51f-119b-4dcc-89bf-e0d13843c2c2)
+![1000053677](https://github.com/user-attachments/assets/b2a0b050-d7cc-4767-8026-057abf460955)
+![1000053694](https://github.com/user-attachments/assets/aca80fac-105c-4895-8aa3-9ed639f7f276)
+![1000053681](https://github.com/user-attachments/assets/ef429138-1c74-4052-9d59-9aae4ac91395)
+![1000053680](https://github.com/user-attachments/assets/80bed8aa-6669-4201-9c15-e7552e1c42d9)
+
+
+
+
+
 
 
 
